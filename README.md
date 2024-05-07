@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Faraz Shahjahan</h1>
-<h3 align="center">A passionate Data Analyst from India and open to work for the data analyst roles</h3>
+<h3 align="center">A passionate Cloud Engineer from India and open to working for the Cloud Engineer roles</h3>
 
-- 🔭 I’m currently working on **Prediction Projects**
+- 🔭 I’m currently working on **ON DEMAND LABS**
 
-- 🌱 I’m currently learning **DATA VIZULIZATION**
+- 🌱 I’m currently learning **AWS
+- 👯 I’m looking to collaborate on **AWS with lambda , RDS and Amazon Shift**
 
-- 👯 I’m looking to collaborate on **Advanced Data Analaysis Projects**
-
-- 💬 Ask me about **PYTHON, SQL, TABLEAU, DATA VIZULIZATION**
+- 💬 Ask me about **PYTHON, SQL, TABLEAU, DATA VISUALIZATION, AWS , GCP**
 
 - 📫 How to reach me **farazshahjaha9953@gmail.com**
 
